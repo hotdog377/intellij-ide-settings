@@ -1,0 +1,6 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="de.sist.gitlab.pipelinemonitor.error" shouldLog="false" />
+    <notification groupId="Vcs Messages" displayType="NONE" />
+  </component>
+</application>

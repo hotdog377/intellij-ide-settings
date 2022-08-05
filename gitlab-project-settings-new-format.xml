@@ -1,0 +1,19 @@
+<application>
+  <component name="SettingsState">
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiToken" value="vzuY6d4TaWwE-LkPaQwU" />
+          <option name="apiUrl" value="http://git-external.megar.ru/" />
+          <option name="removeSourceBranch" value="false" />
+          <option name="repositoryUrl" value="git-external.megar.ru" />
+        </GitlabServer>
+        <GitlabServer>
+          <option name="apiToken" value="glpat-gZVGqHfzyx37kaCFD8NA" />
+          <option name="apiUrl" value="https://gitlab.com/" />
+          <option name="repositoryUrl" value="gitlab.com" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>

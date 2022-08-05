@@ -1,0 +1,23 @@
+<toolSet name="External Tools">
+  <tool name="Oxygen" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/Applications/Oxygen XML Editor/Oxygen XML Editor.app" />
+      <option name="PARAMETERS" value="$FileDir$/$FileName$" />
+      <option name="WORKING_DIRECTORY" value="/Applications/Oxygen XML Editor" />
+    </exec>
+  </tool>
+  <tool name="Vim" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="gvim" />
+      <option name="PARAMETERS" value="--servername IdeaVim --remote-silent +&quot;call cursor($LineNumber$,$ColumnNumber$)&quot; $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="Snippents" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/Applications/Snip.app" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

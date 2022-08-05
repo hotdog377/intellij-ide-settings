@@ -1,0 +1,29 @@
+<application>
+  <component name="PipelineViewerConfigApp">
+    <option name="connectTimeout" value="15" />
+    <option name="ignoredRemotes">
+      <list>
+        <option value="git@git-external.megar.ru:a.mednikov/preauthorization-service.git" />
+        <option value="git@git-external.megar.ru:opc/opc-db.git" />
+        <option value="git@git-external.megar.ru:opc/opc-dbaccess-jar.git" />
+        <option value="git@git-external.megar.ru:opc/opc-iso20022-file-service.git" />
+        <option value="git@git-external.megar.ru:opc/opc-iso20022-service.git" />
+        <option value="git@git-external.megar.ru:opc/opc-product-catalog-service.git" />
+        <option value="git@git-external.megar.ru:opc/opc-quartz-service.git" />
+        <option value="git@gitlab.com:opc-open-api/opc-open-api.git" />
+      </list>
+    </option>
+    <option name="mappings">
+      <list>
+        <Mapping>
+          <option name="gitlabProjectId" value="31895336" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="opc-open-api-gate" />
+          <option name="projectPath" value="opc-open-api/opc-open-api-gate" />
+          <option name="remote" value="git@gitlab.com:opc-open-api/opc-open-api-gate.git" />
+        </Mapping>
+      </list>
+    </option>
+    <option name="urlOpenerCommand" value="" />
+  </component>
+</application>

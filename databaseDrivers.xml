@@ -1,0 +1,20 @@
+<application>
+  <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="elasticsearch">
+      <artifact id="Elasticsearch" name="Elasticsearch" use="true" version="7.10.2" />
+    </driver>
+    <driver id="oracle.19">
+      <artifact id="Oracle" name="Oracle" use="true" version="21.1.0.0" />
+    </driver>
+    <driver id="oracle">
+      <artifact id="Oracle" name="Oracle" use="true" version="11.2.0.4" />
+    </driver>
+    <driver id="postgresql">
+      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.4.0" />
+    </driver>
+    <driver id="java.sql.Driver" name="User Driver" dialect="PostgreSQL" driver-class="org.postgresql.Driver">
+      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.5" />
+    </driver>
+    <driver id="oracle.jdbc.driver.OracleDriver" name="oracle.jdbc.driver.OracleDriver" driver-class="oracle.jdbc.driver.OracleDriver" />
+  </component>
+</application>

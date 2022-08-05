@@ -1,0 +1,25 @@
+<application>
+  <component name="GraziConfig">
+    <option name="enabledLanguages">
+      <set>
+        <option value="English (US)" />
+        <option value="Russian" />
+      </set>
+    </option>
+    <option name="userEnabledRules">
+      <set>
+        <option value="Bundled.Yaml.Google_Developer_Documentation_Style_Guide.Spelling" />
+      </set>
+    </option>
+    <option name="suppressingContext">
+      <SuppressingContext>
+        <option name="suppressed">
+          <set>
+            <option value="TransactionsService" />
+            <option value="UsersRepository" />
+          </set>
+        </option>
+      </SuppressingContext>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,968 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Zulu 1.7 (282)" />
+      <type value="JavaSDK" />
+      <version value="version 1.7" />
+      <homePath value="/Library/Java/JavaVirtualMachines/zulu-7.jdk/Contents/Home" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar:///Library/Java/JavaVirtualMachines/zulu-7.jdk/Contents/Home/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/zulu-7.jdk/Contents/Home/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/zulu-7.jdk/Contents/Home/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/zulu-7.jdk/Contents/Home/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/zulu-7.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/zulu-7.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/zulu-7.jdk/Contents/Home/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/zulu-7.jdk/Contents/Home/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/zulu-7.jdk/Contents/Home/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/zulu-7.jdk/Contents/Home/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/zulu-7.jdk/Contents/Home/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/zulu-7.jdk/Contents/Home/jre/lib/rt.jar!/" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/zulu-7.jdk/Contents/Home/lib/dt.jar!/" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/zulu-7.jdk/Contents/Home/lib/jconsole.jar!/" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/zulu-7.jdk/Contents/Home/lib/sa-jdi.jar!/" type="simple" />
+            <root url="jar:///Library/Java/JavaVirtualMachines/zulu-7.jdk/Contents/Home/lib/tools.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar:///Library/Java/JavaVirtualMachines/zulu-7.jdk/Contents/Home/src.zip!/" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Liberica JDK 8.0.292" />
+      <type value="JavaSDK" />
+      <version value="version 1.8.0_292" />
+      <homePath value="$USER_HOME$/.sdkman/candidates/java/8.0.292-librca" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.292-librca/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.292-librca/jre/lib/ext/cldrdata.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.292-librca/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.292-librca/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.292-librca/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.292-librca/jre/lib/ext/nashorn.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.292-librca/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.292-librca/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.292-librca/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.292-librca/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.292-librca/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.292-librca/jre/lib/jfr.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.292-librca/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.292-librca/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.292-librca/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.292-librca/jre/lib/rt.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.292-librca/lib/dt.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.292-librca/lib/jconsole.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.292-librca/lib/sa-jdi.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.292-librca/lib/tools.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.292-librca/src.zip!/" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Native TeX Live SDK" />
+      <type value="Native TeX Live SDK" />
+      <version value="TeX Live 2022/dev" />
+      <homePath value="/Library/TeX/texbin" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_292&quot;" />
+      <homePath value="$USER_HOME$/.sdkman/candidates/java/8.0.292-librca" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.292-librca/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.292-librca/jre/lib/ext/cldrdata.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.292-librca/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.292-librca/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.292-librca/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.292-librca/jre/lib/ext/nashorn.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.292-librca/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.292-librca/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.292-librca/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.292-librca/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.292-librca/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.292-librca/jre/lib/jfr.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.292-librca/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.292-librca/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.292-librca/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.292-librca/jre/lib/rt.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.292-librca/src.zip!/" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="liberica-17" />
+      <type value="JavaSDK" />
+      <version value="BellSoft Liberica version 17.0.2" />
+      <homePath value="$USER_HOME$/.sdkman/candidates/java/17.0.2-librca" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/java.base" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/java.compiler" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/java.datatransfer" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/java.desktop" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/java.instrument" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/java.logging" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/java.management" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/java.management.rmi" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/java.naming" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/java.net.http" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/java.prefs" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/java.rmi" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/java.scripting" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/java.se" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/java.security.jgss" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/java.security.sasl" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/java.smartcardio" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/java.sql" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/java.sql.rowset" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/java.transaction.xa" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/java.xml" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/java.xml.crypto" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.accessibility" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.attach" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.charsets" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.compiler" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.crypto.ec" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.dynalink" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.editpad" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.httpserver" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.incubator.foreign" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.incubator.vector" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.internal.ed" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.internal.le" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.internal.opt" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.jartool" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.javadoc" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.jcmd" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.jconsole" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.jdeps" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.jdi" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.jfr" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.jlink" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.jpackage" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.jshell" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.jsobject" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.jstatd" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.localedata" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.management" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.management.agent" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.management.jfr" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.naming.dns" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.naming.rmi" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.net" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.nio.mapmode" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.random" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.sctp" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.security.auth" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.security.jgss" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.unsupported" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.unsupported.desktop" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.xml.dom" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/17.0.2-librca!/jdk.zipfs" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/java.se" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.jdi" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.jfr" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.net" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/java.rmi" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/java.sql" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/java.xml" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.jcmd" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.sctp" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/java.base" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.jdeps" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.jlink" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.zipfs" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/java.prefs" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.attach" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.jshell" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.jstatd" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.random" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/java.naming" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.editpad" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.jartool" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.javadoc" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.xml.dom" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/java.desktop" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/java.logging" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.charsets" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.compiler" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.dynalink" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.jconsole" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.jpackage" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.jsobject" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/java.compiler" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/java.net.http" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.crypto.ec" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/java.scripting" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.httpserver" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.jdwp.agent" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.localedata" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.management" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.naming.dns" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.naming.rmi" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/java.instrument" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/java.management" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/java.sql.rowset" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/java.xml.crypto" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.internal.ed" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.internal.le" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.nio.mapmode" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.unsupported" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/java.smartcardio" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.internal.opt" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/java.datatransfer" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.accessibility" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.hotspot.agent" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.security.auth" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.security.jgss" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/java.security.jgss" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/java.security.sasl" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.internal.vm.ci" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.management.jfr" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/java.management.rmi" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/java.transaction.xa" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.incubator.vector" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.internal.jvmstat" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.management.agent" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.incubator.foreign" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.unsupported.desktop" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.2-librca/lib/src.zip!/jdk.internal.vm.compiler.management" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Elixir 1.13.4" />
+      <type value="Elixir SDK" />
+      <version value="1.13.4" />
+      <homePath value="/usr/local/Cellar/elixir/1.13.4" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/local/Cellar/elixir/1.13.4/lib/logger/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/elixir/1.13.4/lib/elixir/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/elixir/1.13.4/lib/ex_unit/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/elixir/1.13.4/lib/mix/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/elixir/1.13.4/lib/eex/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/elixir/1.13.4/lib/iex/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/compiler-8.1/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/os_mon-2.7.1/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/diameter-2.2.5/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/snmp-5.12/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/megaco-4.3/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/stdlib-3.17.1/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/inets-7.5.2/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/erl_docgen-1.2.1/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/public_key-1.12/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/parsetools-2.3.2/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/erts-12.3.1/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/tftp-1.0.3/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/edoc-1.1/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/eldap-1.2.10/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/erl_interface-5.2.2/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/wx-2.1.3/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/ssh-4.13.2/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/observer-2.11.1/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/xmerl-1.3.28/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/debugger-5.2.1/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/syntax_tools-2.6/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/crypto-5.0.6/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/asn1-5.0.18/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/common_test-1.22.1/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/sasl-4.1.2/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/eunit-2.7/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/mnesia-4.20.3/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/et-1.6.5/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/tools-3.5.2/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/ssl-10.7.2/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/kernel-8.3.1/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/reltool-0.9/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/ftp-1.1.1/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/runtime_tools-1.18/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/dialyzer-4.4.4/ebin" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="https://hexdoc.pm/logger/1.13.4" type="simple" />
+            <root url="https://hexdoc.pm/elixir/1.13.4" type="simple" />
+            <root url="https://hexdoc.pm/ex_unit/1.13.4" type="simple" />
+            <root url="https://hexdoc.pm/mix/1.13.4" type="simple" />
+            <root url="https://hexdoc.pm/eex/1.13.4" type="simple" />
+            <root url="https://hexdoc.pm/iex/1.13.4" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional erlang-sdk-name="Erlang for Elixir 24" />
+    </jdk>
+    <jdk version="2">
+      <name value="Erlang for Elixir 24" />
+      <type value="Erlang SDK for Elixir SDK" />
+      <version value="24" />
+      <homePath value="/usr/local/Cellar/erlang/24.3.3/lib/erlang" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/compiler-8.1/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/os_mon-2.7.1/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/diameter-2.2.5/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/snmp-5.12/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/megaco-4.3/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/stdlib-3.17.1/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/inets-7.5.2/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/erl_docgen-1.2.1/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/public_key-1.12/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/parsetools-2.3.2/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/erts-12.3.1/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/tftp-1.0.3/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/edoc-1.1/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/eldap-1.2.10/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/erl_interface-5.2.2/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/wx-2.1.3/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/ssh-4.13.2/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/observer-2.11.1/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/xmerl-1.3.28/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/debugger-5.2.1/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/syntax_tools-2.6/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/crypto-5.0.6/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/asn1-5.0.18/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/common_test-1.22.1/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/sasl-4.1.2/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/eunit-2.7/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/mnesia-4.20.3/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/et-1.6.5/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/tools-3.5.2/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/ssl-10.7.2/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/kernel-8.3.1/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/reltool-0.9/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/ftp-1.1.1/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/runtime_tools-1.18/ebin" type="simple" />
+            <root url="file:///usr/local/Cellar/erlang/24.3.3/lib/erlang/lib/dialyzer-4.4.4/ebin" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="liberica-11 GraalVM" />
+      <type value="JavaSDK" />
+      <version value="BellSoft Liberica version 11.0.15" />
+      <homePath value="$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/com.oracle.graal.graal_enterprise" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/com.oracle.svm.svm_enterprise" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/com.oracle.truffle.regex" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/com.oracle.truffle.truffle_nfi" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/com.oracle.truffle.truffle_nfi_libffi" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/java.base" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/java.compiler" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/java.datatransfer" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/java.desktop" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/java.instrument" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/java.logging" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/java.management" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/java.management.rmi" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/java.naming" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/java.net.http" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/java.prefs" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/java.rmi" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/java.scripting" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/java.se" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/java.security.jgss" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/java.security.sasl" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/java.smartcardio" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/java.sql" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/java.sql.rowset" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/java.transaction.xa" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/java.xml" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/java.xml.crypto" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.accessibility" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.attach" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.charsets" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.compiler" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.crypto.ec" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.dynalink" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.editpad" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.httpserver" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.internal.ed" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.internal.le" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.internal.opt" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.internal.vm.compiler.truffle.jfr" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.jartool" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.javadoc" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.jcmd" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.jconsole" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.jdeps" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.jdi" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.jfr" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.jlink" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.jshell" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.jsobject" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.jstatd" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.localedata" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.management" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.management.agent" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.management.jfr" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.naming.dns" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.naming.ldap" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.naming.rmi" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.net" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.pack" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.rmic" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.scripting.nashorn" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.scripting.nashorn.shell" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.sctp" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.security.auth" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.security.jgss" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.unsupported" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.unsupported.desktop" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.xml.dom" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/jdk.zipfs" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/org.graalvm.js.scriptengine" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/org.graalvm.locator" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/org.graalvm.sdk" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/22.1.r11-nik!/org.graalvm.truffle" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/java.se" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.aot" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.jdi" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.jfr" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.net" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/java.rmi" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/java.sql" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/java.xml" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.jcmd" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.pack" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.rmic" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.sctp" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/java.base" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.jdeps" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.jlink" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.zipfs" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/java.prefs" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.attach" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.jshell" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.jstatd" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/java.naming" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.editpad" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.jartool" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.javadoc" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.xml.dom" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/java.desktop" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/java.logging" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.charsets" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.compiler" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.dynalink" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.jconsole" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.jsobject" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/java.compiler" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/java.net.http" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.crypto.ec" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/java.scripting" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.httpserver" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.jdwp.agent" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.localedata" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.management" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.naming.dns" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.naming.rmi" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/java.instrument" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/java.management" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/java.sql.rowset" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/java.xml.crypto" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.internal.ed" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.internal.le" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.naming.ldap" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.unsupported" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/org.graalvm.sdk" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/java.smartcardio" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.internal.opt" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/java.datatransfer" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.accessibility" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.hotspot.agent" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.security.auth" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.security.jgss" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/java.security.jgss" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/java.security.sasl" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.internal.vm.ci" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.management.jfr" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/java.management.rmi" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/java.transaction.xa" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/org.graalvm.locator" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/org.graalvm.truffle" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.internal.jvmstat" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.management.agent" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.scripting.nashorn" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.unsupported.desktop" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/com.oracle.truffle.regex" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.scripting.nashorn.shell" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/org.graalvm.js.scriptengine" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/com.oracle.svm.svm_enterprise" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/com.oracle.truffle.truffle_nfi" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/com.oracle.graal.graal_enterprise" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/jdk.internal.vm.compiler.truffle.jfr" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/22.1.r11-nik/lib/src.zip!/com.oracle.truffle.truffle_nfi_libffi" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="liberica-11" />
+      <type value="JavaSDK" />
+      <version value="BellSoft Liberica version 11.0.16" />
+      <homePath value="$USER_HOME$/.sdkman/candidates/java/11.0.16-librca" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.base" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.compiler" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.datatransfer" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.desktop" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.instrument" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.logging" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.management" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.management.rmi" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.naming" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.net.http" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.prefs" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.rmi" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.scripting" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.se" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.security.jgss" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.security.sasl" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.smartcardio" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.sql" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.sql.rowset" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.transaction.xa" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.xml" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.xml.crypto" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.accessibility" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.aot" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.attach" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.charsets" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.compiler" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.crypto.ec" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.dynalink" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.editpad" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.httpserver" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.internal.ed" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.internal.le" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.internal.opt" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.jartool" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.javadoc" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.jcmd" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.jconsole" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.jdeps" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.jdi" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.jfr" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.jlink" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.jshell" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.jsobject" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.jstatd" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.localedata" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.management" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.management.agent" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.management.jfr" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.naming.dns" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.naming.ldap" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.naming.rmi" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.net" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.pack" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.rmic" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.scripting.nashorn" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.scripting.nashorn.shell" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.sctp" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.security.auth" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.security.jgss" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.unsupported" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.unsupported.desktop" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.xml.dom" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.zipfs" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.se" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.aot" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.jdi" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.jfr" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.net" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.rmi" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.sql" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.xml" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.jcmd" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.pack" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.rmic" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.sctp" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.base" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.jdeps" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.jlink" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.zipfs" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.prefs" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.attach" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.jshell" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.jstatd" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.naming" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.editpad" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.jartool" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.javadoc" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.xml.dom" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.desktop" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.logging" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.charsets" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.compiler" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.dynalink" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.jconsole" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.jsobject" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.compiler" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.net.http" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.crypto.ec" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.scripting" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.httpserver" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.jdwp.agent" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.localedata" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.management" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.naming.dns" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.naming.rmi" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.instrument" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.management" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.sql.rowset" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.xml.crypto" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.internal.ed" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.internal.le" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.naming.ldap" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.unsupported" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.smartcardio" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.internal.opt" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.datatransfer" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.accessibility" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.hotspot.agent" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.security.auth" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.security.jgss" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.security.jgss" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.security.sasl" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.internal.vm.ci" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.management.jfr" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.management.rmi" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.transaction.xa" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.internal.jvmstat" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.management.agent" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.scripting.nashorn" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.unsupported.desktop" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.scripting.nashorn.shell" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.internal.vm.compiler.management" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Liberica JDK 11" />
+      <type value="JavaSDK" />
+      <version value="BellSoft Liberica version 11.0.16" />
+      <homePath value="$USER_HOME$/.sdkman/candidates/java/11.0.16-librca" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.base" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.compiler" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.datatransfer" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.desktop" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.instrument" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.logging" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.management" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.management.rmi" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.naming" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.net.http" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.prefs" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.rmi" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.scripting" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.se" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.security.jgss" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.security.sasl" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.smartcardio" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.sql" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.sql.rowset" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.transaction.xa" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.xml" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/java.xml.crypto" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.accessibility" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.aot" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.attach" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.charsets" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.compiler" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.crypto.ec" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.dynalink" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.editpad" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.httpserver" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.internal.ed" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.internal.le" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.internal.opt" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.jartool" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.javadoc" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.jcmd" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.jconsole" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.jdeps" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.jdi" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.jfr" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.jlink" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.jshell" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.jsobject" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.jstatd" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.localedata" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.management" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.management.agent" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.management.jfr" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.naming.dns" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.naming.ldap" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.naming.rmi" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.net" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.pack" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.rmic" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.scripting.nashorn" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.scripting.nashorn.shell" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.sctp" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.security.auth" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.security.jgss" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.unsupported" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.unsupported.desktop" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.xml.dom" type="simple" />
+            <root url="jrt:///Users/hotdog/.sdkman/candidates/java/11.0.16-librca!/jdk.zipfs" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.se" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.aot" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.jdi" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.jfr" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.net" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.rmi" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.sql" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.xml" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.jcmd" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.pack" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.rmic" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.sctp" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.base" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.jdeps" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.jlink" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.zipfs" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.prefs" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.attach" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.jshell" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.jstatd" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.naming" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.editpad" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.jartool" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.javadoc" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.xml.dom" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.desktop" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.logging" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.charsets" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.compiler" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.dynalink" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.jconsole" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.jsobject" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.compiler" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.net.http" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.crypto.ec" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.scripting" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.httpserver" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.jdwp.agent" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.localedata" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.management" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.naming.dns" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.naming.rmi" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.instrument" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.management" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.sql.rowset" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.xml.crypto" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.internal.ed" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.internal.le" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.naming.ldap" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.unsupported" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.smartcardio" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.internal.opt" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.datatransfer" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.accessibility" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.hotspot.agent" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.security.auth" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.security.jgss" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.security.jgss" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.security.sasl" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.internal.vm.ci" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.management.jfr" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.management.rmi" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/java.transaction.xa" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.internal.jvmstat" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.management.agent" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.scripting.nashorn" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.unsupported.desktop" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.scripting.nashorn.shell" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.16-librca/lib/src.zip!/jdk.internal.vm.compiler.management" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>

@@ -1,0 +1,20 @@
+<application>
+  <component name="ModelsSaveTime">
+    <saveTime>
+      <entry model="data-acquisition – [develop]_6cfa6178" time="2022-08-03T21:18:43.992693" />
+      <entry model="fes-open-api – [soc]_71ee513d" time="2022-07-31T16:11:51.672601" />
+      <entry model="fes-open-api – [yandex]_71ee513d" time="2022-08-05T16:36:37.380337" />
+      <entry model="ns-bom – [develop]_956e0e85" time="2022-08-02T11:53:50.861712" />
+      <entry model="ns-iso20022-service – [develop]_530efa50" time="2022-07-19T15:40:29.956730" />
+      <entry model="ns-product-catalog-service – [develop]_58306c68" time="2022-08-02T11:03:31.269513" />
+      <entry model="opc-auth – [develop]_4550fd2d" time="2022-08-04T19:53:42.370615" />
+      <entry model="opc-auth_4550fd2d" time="2022-08-03T14:03:58.170201" />
+      <entry model="opc-open – [develop]_7034cee0" time="2022-08-04T16:40:33.736006" />
+      <entry model="opc-openapi-balance_be2e9712" time="2022-08-03T12:38:28.885026" />
+      <entry model="react-hibernate-test – [master]_979bd85d" time="2022-08-05T20:32:35.653509" />
+      <entry model="react-hibernate-test_979bd85d" time="2022-08-05T14:03:26.966068" />
+      <entry model="react-opc-api-gate_a9c41299" time="2022-08-05T10:53:06.391684" />
+      <entry model="react-opc-openapi-balance_470d7b44" time="2022-08-03T21:24:54.468056" />
+    </saveTime>
+  </component>
+</application>

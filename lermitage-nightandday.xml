@@ -1,0 +1,22 @@
+<application>
+  <component name="NightanddaySettings">
+    <option name="statusDurationEndType" value="END_OF_MONTH" />
+    <option name="statusUIType" value="TEXT" />
+    <option name="statusWidth" value="100" />
+    <option name="fontSize" value="11" />
+    <option name="rgbaGreenColor" value="028,152,019,080" />
+    <option name="rgbaYellowColor" value="200,164,023,100" />
+    <option name="rgbaRedColor" value="239,042,059,100" />
+    <option name="customPbgarColorsEnabled" value="false" />
+    <option name="pgbarRedLevel" value="20" />
+    <option name="pgbarYellowLevel" value="40" />
+    <option name="statusTextType" value="PREDEFINED_DURATION_FORMAT" />
+    <option name="prefixTxt" value="⏰ " />
+    <option name="suffixTxt" value="" />
+    <option name="awakeModeEnabled" value="false" />
+    <option name="awakeStart" value="10:00" />
+    <option name="awakeEnd" value="20:00" />
+    <option name="customStartDatetime" value="2022-02-04 00:00" />
+    <option name="customEndDatetime" value="2022-02-04 23:59" />
+  </component>
+</application>

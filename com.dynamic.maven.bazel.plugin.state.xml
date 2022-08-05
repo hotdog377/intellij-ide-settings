@@ -1,0 +1,24 @@
+<application>
+  <component name="com.dynamic.maven.bazel.plugin.state.OptionalSettings">
+    <option name="bazelJdkHomeHistories">
+      <set />
+    </option>
+    <option name="bazelMavenRepositoryCacheHistories">
+      <set />
+    </option>
+    <option name="encoding" value="UTF-8" />
+    <option name="languageLevel" value="11" />
+    <option name="localRepository" value="$USER_HOME$/.m2" />
+    <option name="localRepositoryHistories">
+      <set>
+        <option value="$USER_HOME$/.m2" />
+      </set>
+    </option>
+    <option name="mavenHome" value="$USER_HOME$/.sdkman/candidates/maven/3.8.4" />
+    <option name="mavenHomeHistories">
+      <set>
+        <option value="$USER_HOME$/.sdkman/candidates/maven/3.8.4" />
+      </set>
+    </option>
+  </component>
+</application>

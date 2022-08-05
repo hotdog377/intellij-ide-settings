@@ -1,0 +1,6 @@
+<application>
+  <component name="KafkaSettings">
+    <option name="selectedConnectionId" value="Kafka connection@KafkaConnections@2496969959009988260" />
+    <option name="showFullTopicConfig" value="true" />
+  </component>
+</application>
