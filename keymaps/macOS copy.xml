@@ -2,7 +2,26 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
+  <action id="EditorCutLineEnd" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="List-selectNextRow">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="List-selectPreviousRow">
+    <keyboard-shortcut first-keystroke="up" />
+  </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
   </action>
 </keymap>
