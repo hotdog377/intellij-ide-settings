@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="383" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="balance" />
       <item value="Mutiny" />
       <item value="routes" />
       <item value="async Certs" />
@@ -55,13 +56,12 @@
       <item value="immutable to char" />
       <item value="Design note: This method requires a nanosecond argument so as to avoid truncation errors in reporting remaining times. Such precision loss would make it difficult for programmers to ensure that total waiting times are not systematically shorter than specified when re-waits occur. Implementation Considerations The current thread is assumed to hold the lock associated with this Condition when this method is called. It is up to the implementation to determine if this is the case and if not, how to respond. Typically, an exception will be thrown (such as IllegalMonitorStateException) and the implementation must document that fact. An implementation can favor responding to an interrupt over normal method return in response to a signal, or over indicating the elapse of the specified waiting time. In either case the implementation must ensure that the signal is redirected to another waiting thread, if there is one. Params: nanosTimeout – the maximum time to wait, in nanoseconds Returns: an estimate of the nanosTimeout value minus the time spent waiting upon return from this method. A positive value may be used as the argument to a subsequent call to this method to finish waiting out the desired time. A value less than or equal to zero indicates that no time remains. Throws: InterruptedException – if the current thread is interrupted (and interruption of thread suspension is supported)" />
       <item value="millis" />
-      <item value="SYSTEM PROPERTY NOT DEFINED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="577" />
+        <entry key="ENGLISH" value="578" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="577" />
+        <entry key="RUSSIAN" value="578" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="5" />
