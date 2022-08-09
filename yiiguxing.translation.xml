@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="383" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Integrity Checker is disabled. Fail-fast on corrupted executables will not be performed." />
       <item value="balance" />
       <item value="Mutiny" />
       <item value="routes" />
@@ -55,13 +56,12 @@
       <item value="Attribute Hiding Factor (AHF) AHF is defined as the ratio of the sum of the invisibilities of all attributes defined in all classes to the total number of attributes defined in the system under consideration. Included in the MOOD set of metrics proposed by Brito e Abreu F. and Carapuça R. see Brito e Abreu F. and Carapuça R. Object-Oriented Software Engineering: Measuring and controlling the development process, 4th Interntional Conference on Software Quality, Mc Lean, VA, USA, 1994 Software quality correlation AHF is a measure of the use of the information hiding concept supported by the encapsulation mechanism. Information hiding allows coping with complexity by turning complex components into black boxes. AHF should be used as much as possible. Ideally all attributes would be hidden, thus being only accessed by the corresponding class methods. Very low values of AHF should trigger the designers’ attention. In general, as AHF increases, the complexity of the program decreases. According to reported studies [1, 2, 3, 4] the minimum and maximum allowed values of this metric are 67.7% and 100.0% respectively. [1]  F. Abreu, M. Goulãoand, R. Esteves, Towardthe Design Quality Evaluation of Object-Oriented Software Systems, Proceedings of the 5th  International Conference on Software Quality,  Austin, Texas, USA, 1995. [2]  F. Abreu and W. Melo, Evaluating the Impact of  Object-Oriented Design on Software Quality,  Proceeding of the 3rd International Software Metrics Symposium (METRICS’96), IEEE, Berlin, Germany, pp. 90-99, 1996. [3]  F. Abreu, S. Estevesand M. Goulao, TheDesign of Eiffel Programs: Quantitative Evaluation Using the MOOD Metrics, Proceedings of TOOLS'96, Santa Barbara, CA, USA, 1996. [4]  R. Harrison, S. Counsell and R. Nithi, An evaluation of the MOOD set of object-oriented software metrics, IEEE Transaction on Software Engineering, 24(6), 1998, pp. 491-496." />
       <item value="immutable to char" />
       <item value="Design note: This method requires a nanosecond argument so as to avoid truncation errors in reporting remaining times. Such precision loss would make it difficult for programmers to ensure that total waiting times are not systematically shorter than specified when re-waits occur. Implementation Considerations The current thread is assumed to hold the lock associated with this Condition when this method is called. It is up to the implementation to determine if this is the case and if not, how to respond. Typically, an exception will be thrown (such as IllegalMonitorStateException) and the implementation must document that fact. An implementation can favor responding to an interrupt over normal method return in response to a signal, or over indicating the elapse of the specified waiting time. In either case the implementation must ensure that the signal is redirected to another waiting thread, if there is one. Params: nanosTimeout – the maximum time to wait, in nanoseconds Returns: an estimate of the nanosTimeout value minus the time spent waiting upon return from this method. A positive value may be used as the argument to a subsequent call to this method to finish waiting out the desired time. A value less than or equal to zero indicates that no time remains. Throws: InterruptedException – if the current thread is interrupted (and interruption of thread suspension is supported)" />
-      <item value="millis" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="578" />
+        <entry key="ENGLISH" value="579" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="578" />
+        <entry key="RUSSIAN" value="579" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="5" />
@@ -80,5 +80,6 @@
   <component name="Settings">
     <option name="phoneticFontFamily" value="Hack Nerd Font Mono" />
     <option name="primaryFontFamily" value="JetBrains Mono" />
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
