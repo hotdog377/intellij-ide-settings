@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="383" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Saved Certificates For" />
       <item value="No metadata is created" />
       <item value="No metadata created" />
       <item value="Integrity Checker is disabled. Fail-fast on corrupted executables will not be performed." />
@@ -55,13 +56,12 @@
       <item value="At first sight, we might be tempted to think that inheritance should be used extensively. However, the composition of several inheritance relations builds a directed acyclic graph (inheritance hierarchy tree), whose depth and width make understandability and testability fade away quickly." />
       <item value="The Method Inheritance Factor is defined as a quotient between the sum of inherited methods in all classes of the system under consideration and the total number of available methods (locally defined and include those inherited) for all classes." />
       <item value="The Attribute Inheritance Factor is defined as a quotient between the sum of inherited attributes in all classes of the system under consideration and the total number of available attributes (locally defined plus inherited) for all classes." />
-      <item value="Attribute Hiding Factor (AHF) AHF is defined as the ratio of the sum of the invisibilities of all attributes defined in all classes to the total number of attributes defined in the system under consideration. Included in the MOOD set of metrics proposed by Brito e Abreu F. and Carapuça R. see Brito e Abreu F. and Carapuça R. Object-Oriented Software Engineering: Measuring and controlling the development process, 4th Interntional Conference on Software Quality, Mc Lean, VA, USA, 1994 Software quality correlation AHF is a measure of the use of the information hiding concept supported by the encapsulation mechanism. Information hiding allows coping with complexity by turning complex components into black boxes. AHF should be used as much as possible. Ideally all attributes would be hidden, thus being only accessed by the corresponding class methods. Very low values of AHF should trigger the designers’ attention. In general, as AHF increases, the complexity of the program decreases. According to reported studies [1, 2, 3, 4] the minimum and maximum allowed values of this metric are 67.7% and 100.0% respectively. [1]  F. Abreu, M. Goulãoand, R. Esteves, Towardthe Design Quality Evaluation of Object-Oriented Software Systems, Proceedings of the 5th  International Conference on Software Quality,  Austin, Texas, USA, 1995. [2]  F. Abreu and W. Melo, Evaluating the Impact of  Object-Oriented Design on Software Quality,  Proceeding of the 3rd International Software Metrics Symposium (METRICS’96), IEEE, Berlin, Germany, pp. 90-99, 1996. [3]  F. Abreu, S. Estevesand M. Goulao, TheDesign of Eiffel Programs: Quantitative Evaluation Using the MOOD Metrics, Proceedings of TOOLS'96, Santa Barbara, CA, USA, 1996. [4]  R. Harrison, S. Counsell and R. Nithi, An evaluation of the MOOD set of object-oriented software metrics, IEEE Transaction on Software Engineering, 24(6), 1998, pp. 491-496." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="581" />
+        <entry key="ENGLISH" value="582" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="581" />
+        <entry key="RUSSIAN" value="582" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="5" />
