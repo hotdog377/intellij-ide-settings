@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="383" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="transform And Log" />
+      <item value="transform And Logging" />
+      <item value="logging And Transform" />
+      <item value="logging" />
       <item value="get Saved Certificates For" />
       <item value="No metadata is created" />
       <item value="No metadata created" />
@@ -31,7 +35,6 @@
       <item value="merchant" />
       <item value="Product Group Limit" />
       <item value="card" />
-      <item value="logging" />
       <item value="Validator instances can be pooled and shared by the implementation." />
       <item value="Closes the {@code ValidatorFactory} instance. After the {@code ValidatorFactory} instance is closed, calling the following methods is not allowed: &lt;ul&gt; &lt;li&gt;methods of this {@code ValidatorFactory} instance&lt;li&gt; &lt;li&gt;methods of {@link Validator} instances created by this {@code ValidatorFactory}&lt;li&gt; &lt;ul&gt; @since 1.1" />
       <item value="validation" />
@@ -53,15 +56,12 @@
       <item value="Effectiveness This refers to a design's ability to achieve the desired functionality and behavior using object-oriented design concepts and techniques. Effectiveness = 0.2 Abstraction + 0.2 Encapsulation + 0.2 Composition + 0.2 Inheritance + 0.2 Polymorphism For information on the values used to calculate the above expression, see the comments on the node QMOOD Quality Attributes Set in the metrics tree." />
       <item value="The PF metric represents the actual number of possible different polymorphic situations. A given message sent to class can be bound, statistically or dynamically, to a named method implementation which may have as many shapes as the number of times this same method is overridden (in class descendants). Polymorphism arises from inheritance. Binding (usually at run time) a common message call to one of several classes (in the same hierarchy) is supposed to reduce complexity and to allow refinement of the class hierarchy without side effects. On the other hand, to debug such a hierarchy, by tracing the control flow, this same polymorphism would make the job harder. Therefore, polymorphism ought to be bounded within a certain range." />
       <item value="The Polymorphism Factor is defined as the quotient between the actual number of different possible polymorphic situations, and the maximum number of possible distinct polymorphic situations for given class." />
-      <item value="At first sight, we might be tempted to think that inheritance should be used extensively. However, the composition of several inheritance relations builds a directed acyclic graph (inheritance hierarchy tree), whose depth and width make understandability and testability fade away quickly." />
-      <item value="The Method Inheritance Factor is defined as a quotient between the sum of inherited methods in all classes of the system under consideration and the total number of available methods (locally defined and include those inherited) for all classes." />
-      <item value="The Attribute Inheritance Factor is defined as a quotient between the sum of inherited attributes in all classes of the system under consideration and the total number of available attributes (locally defined plus inherited) for all classes." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="582" />
+        <entry key="ENGLISH" value="586" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="582" />
+        <entry key="RUSSIAN" value="586" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="5" />
