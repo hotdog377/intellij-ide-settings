@@ -6,13 +6,14 @@
       <entry model="fes-open-api – [yandex]_71ee513d" time="2022-08-12T15:27:08.021660" />
       <entry model="ns-bom – [develop]_956e0e85" time="2022-08-02T11:53:50.861712" />
       <entry model="ns-common-jar – [develop]_992142d4" time="2022-08-15T12:20:03.447365" />
-      <entry model="ns-dbaccess-jar – [develop]_cd06f60b" time="2022-08-12T14:28:36.533821" />
+      <entry model="ns-dbaccess-jar – [develop]_cd06f60b" time="2022-08-15T22:12:32.791289" />
       <entry model="ns-iso20022-service – [develop]_530efa50" time="2022-07-19T15:40:29.956730" />
       <entry model="ns-product-catalog-service – [develop]_58306c68" time="2022-08-02T11:03:31.269513" />
       <entry model="ns-quartz-service – [develop]_e779bf9e" time="2022-08-11T18:33:39.704871" />
       <entry model="ns-registry-cards-service – [develop]_1f59d7d6" time="2022-08-15T21:59:35.546728" />
       <entry model="opc-auth – [develop]_4550fd2d" time="2022-08-04T19:53:42.370615" />
       <entry model="opc-auth_4550fd2d" time="2022-08-03T14:03:58.170201" />
+      <entry model="opc-dbaccess-jar_eb40fdf0" time="2022-08-15T22:14:02.557315" />
       <entry model="opc-open – [develop]_7034cee0" time="2022-08-09T13:13:58.365242" />
       <entry model="opc-openapi-balance_be2e9712" time="2022-08-03T12:38:28.885026" />
       <entry model="opc-registry-cards-service – [develop]_f9e49900" time="2022-08-12T17:58:44.802985" />
