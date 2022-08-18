@@ -92,6 +92,17 @@
       <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
     </general>
     <debuggers>
+      <debugger id="ObjectiveC">
+        <configuration>
+          <option name="LLDB_NATVIS_RENDERERS_ENABLED" value="false" />
+          <nt-symbol-settings />
+        </configuration>
+      </debugger>
+      <debugger id="Rust">
+        <configuration>
+          <option name="lldbPath" value="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2022.2/intellij-rust/lldb" />
+        </configuration>
+      </debugger>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
