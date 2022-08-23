@@ -13,7 +13,7 @@
       <entry model="ns-iso20022-service – [develop]_530efa50" time="2022-08-18T13:58:27.036808" />
       <entry model="ns-product-catalog-service – [develop]_58306c68" time="2022-08-18T13:31:58.743327" />
       <entry model="ns-quartz-service – [develop]_e779bf9e" time="2022-08-18T13:33:59.930753" />
-      <entry model="ns-registry-cards-service – [develop]_1f59d7d6" time="2022-08-17T14:07:28.233679" />
+      <entry model="ns-registry-cards-service – [develop]_1f59d7d6" time="2022-08-23T10:48:08.506351" />
       <entry model="opc-auth – [develop]_4550fd2d" time="2022-08-04T19:53:42.370615" />
       <entry model="opc-auth_4550fd2d" time="2022-08-03T14:03:58.170201" />
       <entry model="opc-dbaccess-jar – [mos-opcns-mobile]_eb40fdf0" time="2022-08-16T10:50:41.344378" />
@@ -22,7 +22,7 @@
       <entry model="opc-iso20022-service – [develop]_986462fa" time="2022-08-17T13:03:48.897334" />
       <entry model="opc-open – [develop]_7034cee0" time="2022-08-09T13:13:58.365242" />
       <entry model="opc-openapi-balance_be2e9712" time="2022-08-03T12:38:28.885026" />
-      <entry model="opc-registry-cards-service – [develop]_f9e49900" time="2022-08-16T14:40:17.607271" />
+      <entry model="opc-registry-cards-service – [develop]_f9e49900" time="2022-08-23T10:51:01.861317" />
       <entry model="opc-registry-cards-service-client-jar_f501e0ab" time="2022-08-12T18:09:35.423948" />
       <entry model="opc-registry-cards-service-war – [mos-opcns-mobile]_be5c0f96" time="2022-08-15T21:59:27.380529" />
       <entry model="opc-registry-cards-service-war_be5c0f96" time="2022-08-14T18:32:00.152024" />
