@@ -7,37 +7,31 @@
             <value>
               <list>
                 <VFile>
-                  <option name="enabled" value="true" />
                   <option name="id" value="pg.numbers" />
                   <option name="url" value="https://raw.githubusercontent.com/philipgriggs/go-postfix-templates/master/numbers.postfixTemplates" />
                   <option name="file" value="${PLUGIN}/go/pg.numbers.postfixTemplates" />
                 </VFile>
                 <VFile>
-                  <option name="enabled" value="true" />
                   <option name="id" value="pg.collections" />
                   <option name="url" value="https://raw.githubusercontent.com/philipgriggs/go-postfix-templates/master/collections.postfixTemplates" />
                   <option name="file" value="${PLUGIN}/go/pg.collections.postfixTemplates" />
                 </VFile>
                 <VFile>
-                  <option name="enabled" value="true" />
                   <option name="id" value="pg.zerolog" />
                   <option name="url" value="https://raw.githubusercontent.com/philipgriggs/go-postfix-templates/master/zerolog.postfixTemplates" />
                   <option name="file" value="${PLUGIN}/go/pg.zerolog.postfixTemplates" />
                 </VFile>
                 <VFile>
-                  <option name="enabled" value="true" />
                   <option name="id" value="pg.zap" />
                   <option name="url" value="https://raw.githubusercontent.com/philipgriggs/go-postfix-templates/master/zap.postfixTemplates" />
                   <option name="file" value="${PLUGIN}/go/pg.zap.postfixTemplates" />
                 </VFile>
                 <VFile>
-                  <option name="enabled" value="true" />
                   <option name="id" value="pg.testing" />
                   <option name="url" value="https://raw.githubusercontent.com/philipgriggs/go-postfix-templates/master/testing.postfixTemplates" />
                   <option name="file" value="${PLUGIN}/go/pg.testing.postfixTemplates" />
                 </VFile>
                 <VFile>
-                  <option name="enabled" value="true" />
                   <option name="id" value="pg.misc" />
                   <option name="url" value="https://raw.githubusercontent.com/philipgriggs/go-postfix-templates/master/misc.postfixTemplates" />
                   <option name="file" value="${PLUGIN}/go/pg.misc.postfixTemplates" />
@@ -205,19 +199,16 @@
             <value>
               <list>
                 <VFile>
-                  <option name="enabled" value="true" />
                   <option name="id" value="xylo.array" />
                   <option name="url" value="https://raw.githubusercontent.com/xylo/intellij-postfix-templates/master/templates/php/array.postfixTemplates" />
                   <option name="file" value="${PLUGIN}/php/xylo.array.postfixTemplates" />
                 </VFile>
                 <VFile>
-                  <option name="enabled" value="true" />
                   <option name="id" value="xylo.string" />
                   <option name="url" value="https://raw.githubusercontent.com/xylo/intellij-postfix-templates/master/templates/php/string.postfixTemplates" />
                   <option name="file" value="${PLUGIN}/php/xylo.string.postfixTemplates" />
                 </VFile>
                 <VFile>
-                  <option name="enabled" value="true" />
                   <option name="id" value="xylo.misc" />
                   <option name="url" value="https://raw.githubusercontent.com/xylo/intellij-postfix-templates/master/templates/php/misc.postfixTemplates" />
                   <option name="file" value="${PLUGIN}/php/xylo.misc.postfixTemplates" />
