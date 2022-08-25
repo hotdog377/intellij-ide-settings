@@ -10,6 +10,7 @@
     <resource url="http://www.liquibase.org/xml/ns/dbchangelog-ext" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2021.1/extResources/99f6323_dbchangelog-ext.xsd" />
     <resource url="http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-4.6.xsd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2021.3/extResources/67ddbc7e_dbchangelog-4.6.xsd" />
     <resource url="http://www.liquibase.org/xml/ns/pro" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2021.1/extResources/532f3f13_liquibase-pro-4.1.xsd" />
+    <resource url="http://www.w3.org/2000/09/xmldsig#" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2022.2/extResources/3ddbaac8_xmldsig#.xml" />
     <resource url="http://www.w3.org/2001/xml.xsd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2021.1/extResources/9b192256_xml.xsd" />
     <resource url="http://xmlns.jcp.org/xml/ns/persistence/persistence_2_2.xsd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2022.2/extResources/a7438104_persistence_2_2.xsd.xml" />
     <resource url="https://jakarta.ee/xml/ns/persistence/persistence_3_0.xsd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2022.2/extResources/6d5e1b81_persistence_3_0.xsd.xml" />
@@ -19,6 +20,7 @@
     <ignored-resource url="http://java.sun.com/xml/ns/jaxb" />
     <ignored-resource url="http://java.sun.com/xml/ns/jaxb/xjc" />
     <ignored-resource url="http://maven.apache.org/POM/4.0.0" />
+    <ignored-resource url="http://schemas.opc.bssys.com/product/catalog/service/types/v1" />
     <ignored-resource url="https://cache2k.org/schema/v2.x" />
   </component>
 </application>

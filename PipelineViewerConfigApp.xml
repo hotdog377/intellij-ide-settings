@@ -48,6 +48,13 @@
           <option name="projectPath" value="ns/ns-dbaccess-jar" />
           <option name="remote" value="git@git-external.megar.ru:ns/ns-dbaccess-jar.git" />
         </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="46" />
+          <option name="host" value="https://git-external.megar.ru" />
+          <option name="projectName" value="ns-product-catalog-service " />
+          <option name="projectPath" value="ns/ns-product-catalog-service" />
+          <option name="remote" value="git@git-external.megar.ru:ns/ns-product-catalog-service.git" />
+        </Mapping>
       </list>
     </option>
     <option name="urlOpenerCommand" value="" />
