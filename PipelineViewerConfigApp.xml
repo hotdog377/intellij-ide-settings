@@ -41,6 +41,13 @@
           <option name="projectPath" value="opc/opc-arm" />
           <option name="remote" value="git@git-external.megar.ru:opc/opc-arm.git" />
         </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="38" />
+          <option name="host" value="https://git-external.megar.ru" />
+          <option name="projectName" value="ns-dbaccess-jar" />
+          <option name="projectPath" value="ns/ns-dbaccess-jar" />
+          <option name="remote" value="git@git-external.megar.ru:ns/ns-dbaccess-jar.git" />
+        </Mapping>
       </list>
     </option>
     <option name="urlOpenerCommand" value="" />
