@@ -3,7 +3,7 @@
     <resource url="http://docs.oasis-open.org/xacml/3.0/xacml-core-v3-schema-wd-17.xsd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2021.1/extResources/995c4f87_xacml-core-v3-schema-wd-17.xsd" />
     <resource url="http://dozer.sourceforge.net" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.3/extResources/70d44c43_beanmapping.xsd" />
     <resource url="http://dozer.sourceforge.net/schema/beanmapping.xsd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2022.2/extResources/70d44c43_beanmapping.xsd.xml" />
-    <resource url="http://maven.apache.org/SETTINGS/1.1.0" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2021.2/extResources/d9da5963_settings-1.1.0.xsd" />
+    <resource url="http://maven.apache.org/SETTINGS/1.1.0" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2022.2/extResources/d9da5963_settings-1.1.0.xsd.xml" />
     <resource url="http://tiles.apache.org/dtds/tiles-config_2_1.dtd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.3/extResources/3f176ed5_tiles-config_2_1.dtd" />
     <resource url="http://www.hazelcast.com/schema/config/hazelcast-config-4.2.xsd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2022.2/extResources/bc65afab_hazelcast-config-4.2.xsd.xml" />
     <resource url="http://www.liquibase.org/xml/ns/dbchangelog" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2021.1/extResources/679746f9_dbchangelog-4.1.xsd" />
