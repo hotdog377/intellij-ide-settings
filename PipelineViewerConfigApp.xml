@@ -76,6 +76,13 @@
           <option name="projectPath" value="opc/opc-auth" />
           <option name="remote" value="git@git-external.megar.ru:opc/opc-auth.git" />
         </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="43" />
+          <option name="host" value="https://git-external.megar.ru" />
+          <option name="projectName" value="ns-account-service" />
+          <option name="projectPath" value="ns/ns-account-service" />
+          <option name="remote" value="git@git-external.megar.ru:ns/ns-account-service.git" />
+        </Mapping>
       </list>
     </option>
     <option name="urlOpenerCommand" value="" />
