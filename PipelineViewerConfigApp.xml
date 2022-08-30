@@ -83,6 +83,13 @@
           <option name="projectPath" value="ns/ns-account-service" />
           <option name="remote" value="git@git-external.megar.ru:ns/ns-account-service.git" />
         </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="37" />
+          <option name="host" value="https://git-external.megar.ru" />
+          <option name="projectName" value="ns" />
+          <option name="projectPath" value="m.vorontsov/ns" />
+          <option name="remote" value="git@git-external.megar.ru:m.vorontsov/ns.git" />
+        </Mapping>
       </list>
     </option>
     <option name="urlOpenerCommand" value="" />
