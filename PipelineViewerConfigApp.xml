@@ -90,6 +90,13 @@
           <option name="projectPath" value="m.vorontsov/ns" />
           <option name="remote" value="git@git-external.megar.ru:m.vorontsov/ns.git" />
         </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="48" />
+          <option name="host" value="https://git-external.megar.ru" />
+          <option name="projectName" value="ns-quartz-service" />
+          <option name="projectPath" value="ns/ns-quartz-service" />
+          <option name="remote" value="git@git-external.megar.ru:ns/ns-quartz-service.git" />
+        </Mapping>
       </list>
     </option>
     <option name="urlOpenerCommand" value="" />
