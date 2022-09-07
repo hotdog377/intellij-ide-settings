@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="383" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Пакет org.hibernate.annotations Тип аннотации DynamicInsert @Target (TYPE ) @Retention (RUNTIME ) public @interface DynamicInsert Для вставки должен ли этот объект использовать динамическую генерацию sql, где только ненулевые столбцы ссылаются в подготовленном операторе sql? Maven: org.hibernate:hibernate-core:5.6.9.Final (hibernate-core-5.6.9.Final.jar) `DynamicInsert` on localhost" />
       <item value="start Interval Value" />
       <item value="And these oprations are silly with certain constant values:" />
       <item value="Casting a non-floating-point value to floating-point and then passing it to Math.round, Math.ceil, or Math.floor is silly because the result will always be the original value." />
@@ -55,7 +56,6 @@
       <item value="Product Group Limit" />
       <item value="card" />
       <item value="Validator instances can be pooled and shared by the implementation." />
-      <item value="Closes the {@code ValidatorFactory} instance. After the {@code ValidatorFactory} instance is closed, calling the following methods is not allowed: &lt;ul&gt; &lt;li&gt;methods of this {@code ValidatorFactory} instance&lt;li&gt; &lt;li&gt;methods of {@link Validator} instances created by this {@code ValidatorFactory}&lt;li&gt; &lt;ul&gt; @since 1.1" />
     </histories>
     <option name="languageScores">
       <map>
@@ -80,6 +80,5 @@
   <component name="Settings">
     <option name="phoneticFontFamily" value="Hack Nerd Font Mono" />
     <option name="primaryFontFamily" value="JetBrains Mono" />
-    <option name="translateDocumentation" value="true" />
   </component>
 </application>
