@@ -1,10 +1,5 @@
 <application>
   <component name="PipelineViewerConfigApp">
-    <option name="alwaysMonitorHosts">
-      <set>
-        <option value="https://git-external.megar.ru" />
-      </set>
-    </option>
     <option name="connectTimeout" value="15" />
     <option name="ignoredRemotes">
       <list>
@@ -96,6 +91,13 @@
           <option name="projectName" value="ns-quartz-service" />
           <option name="projectPath" value="ns/ns-quartz-service" />
           <option name="remote" value="git@git-external.megar.ru:ns/ns-quartz-service.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="12" />
+          <option name="host" value="https://git-external.megar.ru" />
+          <option name="projectName" value="opc-quartz-service" />
+          <option name="projectPath" value="opc/opc-quartz-service" />
+          <option name="remote" value="git@git-external.megar.ru:opc/opc-quartz-service.git" />
         </Mapping>
       </list>
     </option>
