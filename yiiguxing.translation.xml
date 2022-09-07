@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="383" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="length Interval" />
+      <item value="interval Length" />
       <item value="Category With Char Type" />
       <item value="Even when used in synchronized context, you should think twice before using it, since it’s usage can be tricky. If you are confident the usage is legitimate, you can safely ignore this warning." />
       <item value="subscribe" />
@@ -54,14 +56,12 @@
       <item value="Unexpected value" />
       <item value="Utils" />
       <item value="Balance Info Resource" />
-      <item value="Balance Resource" />
-      <item value="Common error response" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="599" />
+        <entry key="ENGLISH" value="601" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="599" />
+        <entry key="RUSSIAN" value="601" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="5" />
