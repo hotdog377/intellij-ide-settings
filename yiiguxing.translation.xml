@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="383" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="pr autocreate certificates" />
       <item value="Пакет org.hibernate.annotations Тип аннотации DynamicInsert @Target (TYPE ) @Retention (RUNTIME ) public @interface DynamicInsert Для вставки должен ли этот объект использовать динамическую генерацию sql, где только ненулевые столбцы ссылаются в подготовленном операторе sql? Maven: org.hibernate:hibernate-core:5.6.9.Final (hibernate-core-5.6.9.Final.jar) `DynamicInsert` on localhost" />
       <item value="start Interval Value" />
       <item value="And these oprations are silly with certain constant values:" />
@@ -55,11 +56,10 @@
       <item value="merchant" />
       <item value="Product Group Limit" />
       <item value="card" />
-      <item value="Validator instances can be pooled and shared by the implementation." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="602" />
+        <entry key="ENGLISH" value="603" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="604" />
         <entry key="FRENCH" value="3" />
