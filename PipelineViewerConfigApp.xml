@@ -99,6 +99,13 @@
           <option name="projectPath" value="opc/opc-quartz-service" />
           <option name="remote" value="git@git-external.megar.ru:opc/opc-quartz-service.git" />
         </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="32829995" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="xmlhmac" />
+          <option name="projectPath" value="opc-open-api/xmlhmac" />
+          <option name="remote" value="git@gitlab.com:opc-open-api/xmlhmac.git" />
+        </Mapping>
       </list>
     </option>
     <option name="urlOpenerCommand" value="" />
