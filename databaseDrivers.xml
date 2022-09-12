@@ -10,7 +10,7 @@
       <artifact id="Oracle" name="Oracle" use="true" version="11.2.0.4" />
     </driver>
     <driver id="postgresql">
-      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.4.0" />
+      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.5.0" />
     </driver>
     <driver id="java.sql.Driver" name="User Driver" dialect="PostgreSQL" driver-class="org.postgresql.Driver">
       <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.5" />
