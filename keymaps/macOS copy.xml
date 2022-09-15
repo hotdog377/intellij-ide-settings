@@ -1,4 +1,7 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="Cargo.RustfmtFile">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+  </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
