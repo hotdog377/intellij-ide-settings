@@ -6,8 +6,8 @@
     <option name="newTranslationDialogY" value="383" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="formirate" />
       <item value="formirate Get Sale Data Response" />
+      <item value="formirate" />
       <item value="belongs to" />
       <item value="you might have meant to use the associated type" />
       <item value="prelude" />
@@ -60,7 +60,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="606" />
-        <entry key="BOSNIAN" value="2" />
+        <entry key="BOSNIAN" value="3" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="607" />
         <entry key="FRENCH" value="3" />
