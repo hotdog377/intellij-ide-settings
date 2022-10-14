@@ -7,7 +7,7 @@
       <entry model="fes-open-api – [soc]_71ee513d" time="2022-09-23T13:21:52.311433" />
       <entry model="fes-open-api – [yandex]_71ee513d" time="2022-08-12T15:27:08.021660" />
       <entry model="ns – [mos-opcns-mobile]_437e9072" time="2022-09-09T14:30:58.178151" />
-      <entry model="ns-account-service – [develop]_f572485a" time="2022-08-29T15:56:04.990353" />
+      <entry model="ns-account-service – [develop]_f572485a" time="2022-10-14T15:40:05.422096" />
       <entry model="ns-arm – [develop]_956e0b21" time="2022-10-12T13:55:55.040528" />
       <entry model="ns-arm_956e0b21" time="2022-08-25T16:06:58.760804" />
       <entry model="ns-auth – [develop]_18536583" time="2022-10-13T19:29:52.841715" />
@@ -16,9 +16,9 @@
       <entry model="ns-common-jar – [develop]_992142d4" time="2022-08-15T12:20:03.447365" />
       <entry model="ns-dbaccess-jar – [develop]_cd06f60b" time="2022-10-13T16:46:10.854567" />
       <entry model="ns-iso20022-service – [develop]_530efa50" time="2022-10-13T15:00:42.018269" />
-      <entry model="ns-product-catalog-service – [develop]_58306c68" time="2022-10-11T11:20:46.262448" />
+      <entry model="ns-product-catalog-service – [develop]_58306c68" time="2022-10-14T15:28:56.032286" />
       <entry model="ns-quartz-service – [develop]_e779bf9e" time="2022-10-13T14:52:29.461233" />
-      <entry model="ns-registry-cards-service – [develop]_1f59d7d6" time="2022-09-26T19:01:38.343841" />
+      <entry model="ns-registry-cards-service – [develop]_1f59d7d6" time="2022-10-14T15:34:33.684015" />
       <entry model="opc-auth – [develop]_4550fd2d" time="2022-10-13T19:19:51.449932" />
       <entry model="opc-auth_4550fd2d" time="2022-08-03T14:03:58.170201" />
       <entry model="opc-dbaccess-jar – [mos-opcns-mobile]_eb40fdf0" time="2022-08-16T10:50:41.344378" />
