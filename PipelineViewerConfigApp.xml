@@ -106,6 +106,13 @@
           <option name="projectPath" value="opc-open-api/xmlhmac" />
           <option name="remote" value="git@gitlab.com:opc-open-api/xmlhmac.git" />
         </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="36" />
+          <option name="host" value="https://git-external.megar.ru" />
+          <option name="projectName" value="nfp-server" />
+          <option name="projectPath" value="opc/nfp-server" />
+          <option name="remote" value="git@git-external.megar.ru:opc/nfp-server.git" />
+        </Mapping>
       </list>
     </option>
     <option name="urlOpenerCommand" value="" />
