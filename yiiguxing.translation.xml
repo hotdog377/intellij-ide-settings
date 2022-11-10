@@ -6,6 +6,14 @@
     <option name="newTranslationDialogY" value="383" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="extract Grouping" />
+      <item value="gather Attributes" />
+      <item value="may Be User" />
+      <item value="Policies Watcher" />
+      <item value="write Event" />
+      <item value="Pdp Events Log Service" />
+      <item value="attributes And Reference" />
+      <item value="Headers Names" />
       <item value="set Decline Product" />
       <item value="Init" />
       <item value="Init Common handled exceptions" />
@@ -48,21 +56,13 @@
       <item value="BUSINESS" />
       <item value="FATAL" />
       <item value="crate" />
-      <item value="recipient" />
-      <item value="get Saved Certificates For" />
-      <item value="forms Store Norms Response" />
-      <item value="form Store Norms Response" />
-      <item value="transform And Log" />
-      <item value="transform And Logging" />
-      <item value="logging And Transform" />
-      <item value="logging" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="625" />
+        <entry key="ENGLISH" value="633" />
         <entry key="BOSNIAN" value="3" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="625" />
+        <entry key="RUSSIAN" value="633" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
