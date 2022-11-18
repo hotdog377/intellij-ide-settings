@@ -82,6 +82,5 @@
   <component name="Settings">
     <option name="phoneticFontFamily" value="Hack Nerd Font Mono" />
     <option name="primaryFontFamily" value="JetBrains Mono" />
-    <option name="translateDocumentation" value="true" />
   </component>
 </application>
