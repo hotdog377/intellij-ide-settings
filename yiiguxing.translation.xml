@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="383" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Either" />
+      <item value="If the exception is not null, log it and return a left Either" />
+      <item value="Given" />
       <item value="signature" />
       <item value="sign" />
       <item value="extract Grouping" />
@@ -53,16 +56,13 @@
       <item value="Even when used in synchronized context, you should think twice before using it, since it’s usage can be tricky. If you are confident the usage is legitimate, you can safely ignore this warning." />
       <item value="subscribe" />
       <item value="throwable Consumer" />
-      <item value="build Response" />
-      <item value="otp Sended" />
-      <item value="BUSINESS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="635" />
+        <entry key="ENGLISH" value="638" />
         <entry key="BOSNIAN" value="3" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="635" />
+        <entry key="RUSSIAN" value="638" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
@@ -77,10 +77,11 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1668605917102" />
+    <option name="lastTrimTime" value="1669120093368" />
   </component>
   <component name="Settings">
     <option name="phoneticFontFamily" value="Hack Nerd Font Mono" />
     <option name="primaryFontFamily" value="JetBrains Mono" />
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
