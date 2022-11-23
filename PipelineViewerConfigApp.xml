@@ -9,6 +9,20 @@
     <option name="mappings">
       <list>
         <Mapping>
+          <option name="gitlabProjectId" value="37" />
+          <option name="host" value="https://git-external.megar.ru" />
+          <option name="projectName" value="ns" />
+          <option name="projectPath" value="m.vorontsov/ns" />
+          <option name="remote" value="git@git-external.megar.ru:m.vorontsov/ns.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="43" />
+          <option name="host" value="https://git-external.megar.ru" />
+          <option name="projectName" value="ns-account-service" />
+          <option name="projectPath" value="ns/ns-account-service" />
+          <option name="remote" value="git@git-external.megar.ru:ns/ns-account-service.git" />
+        </Mapping>
+        <Mapping>
           <option name="gitlabProjectId" value="51" />
           <option name="host" value="https://git-external.megar.ru" />
           <option name="projectName" value="ns-arm" />
@@ -37,11 +51,25 @@
           <option name="remote" value="git@git-external.megar.ru:ns/ns-product-catalog-service.git" />
         </Mapping>
         <Mapping>
+          <option name="gitlabProjectId" value="48" />
+          <option name="host" value="https://git-external.megar.ru" />
+          <option name="projectName" value="ns-quartz-service" />
+          <option name="projectPath" value="ns/ns-quartz-service" />
+          <option name="remote" value="git@git-external.megar.ru:ns/ns-quartz-service.git" />
+        </Mapping>
+        <Mapping>
           <option name="gitlabProjectId" value="44" />
           <option name="host" value="https://git-external.megar.ru" />
           <option name="projectName" value="ns-registry-cards-service" />
           <option name="projectPath" value="ns/ns-registry-cards-service" />
           <option name="remote" value="git@git-external.megar.ru:ns/ns-registry-cards-service.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="36" />
+          <option name="host" value="https://git-external.megar.ru" />
+          <option name="projectName" value="nfp-server" />
+          <option name="projectPath" value="opc/nfp-server" />
+          <option name="remote" value="git@git-external.megar.ru:opc/nfp-server.git" />
         </Mapping>
         <Mapping>
           <option name="gitlabProjectId" value="34" />
@@ -51,11 +79,11 @@
           <option name="remote" value="git@git-external.megar.ru:opc/opc-arm.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="31895336" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="opc-open-api-gate" />
-          <option name="projectPath" value="opc-open-api/opc-open-api-gate" />
-          <option name="remote" value="git@gitlab.com:opc-open-api/opc-open-api-gate.git" />
+          <option name="gitlabProjectId" value="21" />
+          <option name="host" value="https://git-external.megar.ru" />
+          <option name="projectName" value="opc-auth" />
+          <option name="projectPath" value="opc/opc-auth" />
+          <option name="remote" value="git@git-external.megar.ru:opc/opc-auth.git" />
         </Mapping>
         <Mapping>
           <option name="gitlabProjectId" value="11" />
@@ -65,39 +93,18 @@
           <option name="remote" value="git@git-external.megar.ru:opc/opc-iso20022-service.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="21" />
-          <option name="host" value="https://git-external.megar.ru" />
-          <option name="projectName" value="opc-auth" />
-          <option name="projectPath" value="opc/opc-auth" />
-          <option name="remote" value="git@git-external.megar.ru:opc/opc-auth.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="43" />
-          <option name="host" value="https://git-external.megar.ru" />
-          <option name="projectName" value="ns-account-service" />
-          <option name="projectPath" value="ns/ns-account-service" />
-          <option name="remote" value="git@git-external.megar.ru:ns/ns-account-service.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="37" />
-          <option name="host" value="https://git-external.megar.ru" />
-          <option name="projectName" value="ns" />
-          <option name="projectPath" value="m.vorontsov/ns" />
-          <option name="remote" value="git@git-external.megar.ru:m.vorontsov/ns.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="48" />
-          <option name="host" value="https://git-external.megar.ru" />
-          <option name="projectName" value="ns-quartz-service" />
-          <option name="projectPath" value="ns/ns-quartz-service" />
-          <option name="remote" value="git@git-external.megar.ru:ns/ns-quartz-service.git" />
-        </Mapping>
-        <Mapping>
           <option name="gitlabProjectId" value="12" />
           <option name="host" value="https://git-external.megar.ru" />
           <option name="projectName" value="opc-quartz-service" />
           <option name="projectPath" value="opc/opc-quartz-service" />
           <option name="remote" value="git@git-external.megar.ru:opc/opc-quartz-service.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="31895336" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="opc-open-api-gate" />
+          <option name="projectPath" value="opc-open-api/opc-open-api-gate" />
+          <option name="remote" value="git@gitlab.com:opc-open-api/opc-open-api-gate.git" />
         </Mapping>
         <Mapping>
           <option name="gitlabProjectId" value="32829995" />
@@ -106,15 +113,9 @@
           <option name="projectPath" value="opc-open-api/xmlhmac" />
           <option name="remote" value="git@gitlab.com:opc-open-api/xmlhmac.git" />
         </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="36" />
-          <option name="host" value="https://git-external.megar.ru" />
-          <option name="projectName" value="nfp-server" />
-          <option name="projectPath" value="opc/nfp-server" />
-          <option name="remote" value="git@git-external.megar.ru:opc/nfp-server.git" />
-        </Mapping>
       </list>
     </option>
+    <option name="onlyForRemoteBranchesExist" value="true" />
     <option name="urlOpenerCommand" value="" />
   </component>
 </application>
