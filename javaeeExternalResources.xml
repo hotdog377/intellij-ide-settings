@@ -12,6 +12,7 @@
     <resource url="http://www.liquibase.org/xml/ns/pro" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2021.1/extResources/532f3f13_liquibase-pro-4.1.xsd" />
     <resource url="http://www.springframework.org/schema/beans" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2022.2/extResources/a32f63cf_spring-beans-3.0.xsd.xml" />
     <resource url="http://www.springframework.org/schema/security" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2022.2/extResources/67d00c89_spring-security.xsd.xml" />
+    <resource url="http://www.springframework.org/schema/util/spring-util.xsd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2022.2/extResources/35dd368d_spring-util.xsd.xml" />
     <resource url="http://www.w3.org/2000/09/xmldsig#" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2022.2/extResources/3ddbaac8_xmldsig#.xml" />
     <resource url="http://www.w3.org/2001/xml.xsd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2021.1/extResources/9b192256_xml.xsd" />
     <resource url="http://xmlns.jcp.org/xml/ns/persistence/persistence_2_2.xsd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2022.2/extResources/a7438104_persistence_2_2.xsd.xml" />
@@ -19,6 +20,8 @@
     <resource url="https://maven.apache.org/xsd/maven-4.0.0.xsd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2021.1/extResources/a3e953d2_maven-4.0.0.xsd" />
     <resource url="https://www.hazelcast.com/schema/config/hazelcast-config-4.2.xsd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2022.2/extResources/a6be5568_hazelcast-config-4.2.xsd.xml" />
     <resource url="https://www.hazelcast.com/schema/config/hazelcast-config-5.1.xsd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2022.2/extResources/db967928_hazelcast-config-5.1.xsd.xml" />
+    <resource url="https://www.springframework.org/schema/beans/spring-beans-4.3.xsd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2022.2/extResources/38fbf776_spring-beans-4.3.xsd.xml" />
+    <resource url="https://www.springframework.org/schema/tool/spring-tool-4.3.xsd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2022.2/extResources/93b79a08_spring-tool-4.3.xsd.xml" />
     <ignored-resource url="http://java.sun.com/xml/ns/jaxb" />
     <ignored-resource url="http://java.sun.com/xml/ns/jaxb/xjc" />
     <ignored-resource url="http://maven.apache.org/POM/4.0.0" />
