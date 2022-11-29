@@ -83,4 +83,18 @@
     <option name="phoneticFontFamily" value="Hack Nerd Font Mono" />
     <option name="primaryFontFamily" value="JetBrains Mono" />
   </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1669734559156" />
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="set Action" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+        <entry key="RUSSIAN" value="1" />
+      </map>
+    </option>
+  </component>
 </application>
